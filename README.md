@@ -1,4 +1,4 @@
-# SEXOOOOOOOOOOO
+# SEXOOOOOOOOOOOO
 
 # random-quote
 
