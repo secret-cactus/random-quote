@@ -1,6 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <h1>Hello World</h1>
+  <h1>Random Quotes</h1>
   <router-view> </router-view>
 </template>
 
