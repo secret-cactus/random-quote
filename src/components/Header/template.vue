@@ -1,7 +1,7 @@
 <template>
     <header>
         <h1>Random Quotes</h1>
-        <button v-on:click="onClickRandom()">Random</button>
+        <button @click="onClickRandom()">Random</button>
     </header>
 </template>
 
