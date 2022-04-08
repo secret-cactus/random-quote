@@ -1,0 +1,13 @@
+.quote {
+    width: 50%;
+    border: 1px solid gray;
+    text-align: left;
+    padding: 100px
+}
+
+.quote p {
+    border-left: 10px solid orange;
+    padding: 20px 30px;
+    font-size: xx-large;
+    font-style: italic;
+}

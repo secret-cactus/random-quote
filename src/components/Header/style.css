@@ -1,0 +1,11 @@
+header {
+    width: 100%
+}
+
+header h1 {
+    width: 25%;
+}
+
+header button {
+    width: 25%;
+}

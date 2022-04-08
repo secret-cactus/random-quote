@@ -1,5 +1,5 @@
 <template>
-<h1>This is home</h1>
+  <Quote> </Quote>
 </template>
 
 <style src="@/views/Home/style.css" lang="css" scoped></style>

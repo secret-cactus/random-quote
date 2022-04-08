@@ -1,14 +1,16 @@
 <template>
-  <h1>Random Quotes</h1>
+  <Header> </Header>
   <router-view> </router-view>
 </template>
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
+import Header from './components/Header/template.vue'
 
 export default {
   name: 'App',
   components: {
+      Header
 //    HelloWorld
   }
 }
