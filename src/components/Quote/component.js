@@ -5,9 +5,9 @@ export default {
     data: function () {
         return {
             isLoading: false,
-            quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem quisquam eligendi, unde voluptate fuga doloremque quia vitae excepturi ab assumenda a dolores error optio obcaecati alias, nesciunt iste saepe dolor.",
-            author: "Diego Aravena",
-            category: "Informatica"
+            quote: "",
+            author: "",
+            category: "" 
         }
     },
     methods: {
